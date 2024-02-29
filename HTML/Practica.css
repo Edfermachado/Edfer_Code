@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.hero
+{
+    display: flex;
+    background-image: url("/img/ñejejeje.png");
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+    color: white;
+}
